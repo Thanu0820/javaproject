@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center>
+<h1>Books Cart</h1>
+<table border=1px solid>
+
+<tr><h3>
+    <th>S.no</th>
+	<th>Book</th>
+	<th>Name</th>
+	<th>Branch</th>
+	<th>Author</th>
+
+</tr>
+<tr>
+<td>1</td>
+<td><img src="image1.jpeg" width="150" height="150" alt="book1"></td>
+<td>Playing with algebra</td>
+<td>CSD</td>
+<td>Lawrence</td>
+</tr>
+
+
+
+<tr>
+<td>3</td>
+<td><img src="image3.jpeg" width="150" height="150" alt="book3"></td>
+<td>Machine Learning</td>
+<td>CSBS</td>
+<td>Andy</td>
+</tr>
+
+<tr>
+<td>no of books in cart:2</td>
+</tr>
+</h3>
+</table><br><br>
+
+</center>
+ </body>
+</html>
